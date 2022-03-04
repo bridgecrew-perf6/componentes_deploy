@@ -1,0 +1,16 @@
+.card_home_item{
+    width: 200px;
+    height: 250px;
+    padding: 20px 10px;
+    margin: 20px;
+    border:1px solid black;
+  }
+  
+  .image_card{
+    width: 180px;
+    height: 120px;
+  }
+  
+  .item_card_title{
+    font-size: 1.4rem;
+  }
